@@ -1,0 +1,10 @@
+StudentDetails/
+Attendance/
+TrainingImage/
+TrainingImageLabel/
+*.csv
+
+__pycache__/
+*.pyc
+.vscode/
+.idea/
